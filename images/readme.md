@@ -1,7 +1,7 @@
 ## How to Use these Images?
 ```
 <p align="center">
-  <img src="http://suzyi.github.io/images/lstm.png", alt="sturcture of a lstm unit", width=500px,height＝500px>
+  <img src="http://suzyi.github.io/images/lstm.png", alt="sturcture of a lstm unit", width=500px>
 </p>
 
 <img src="https://suzyi.github.io/images/RNN-unrolled.png" alt="rnn unrolling" width=500px/>
