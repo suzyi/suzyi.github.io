@@ -10,7 +10,9 @@
 ## Original Source of these Images
 | Date  | name | image | source |
 |---|---|---|---|
-| Jun 28, 2019 | global-attention.png  |  <img src="https://suzyi.github.io/images/global-attention.png" width=200px/> | [paper](https://arxiv.org/abs/1508.04025) |
+| Jul 21, 2019 | twoSolitonKdV_snapshot.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_snapshot.png" width=300px/> | |
+| Jul 21, 2019 | twoSolitonKdV_err.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_err.png" height=300px/> | |
+| Jun 28, 2019 | global-attention.png  |  <img src="https://suzyi.github.io/images/global-attention.png" height=200px/> | [paper](https://arxiv.org/abs/1508.04025) |
 | Jun 16, 2019 | RNN-unrolled.png  |  <img src="https://suzyi.github.io/images/RNN-unrolled.png" width=200px/> | |
 | Jun 14, 2019 | basic_seq2seq.png  |  <img src="https://suzyi.github.io/images/basic_seq2seq.png" width=200px/> | Adapted from [paper](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) |
 | Jun 11, 2019 | encoder-decoder.png |  <img src="https://suzyi.github.io/images/encoder-decoder.png" width=200px/> | |
