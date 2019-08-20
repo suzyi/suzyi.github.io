@@ -10,8 +10,7 @@
 ## Original Source of these Images
 | Date  | name | image | source |
 |---|---|---|---|
-| Aug 19, 2019 | youtube-dl-video.png | <img src="https://suzyi.github.io/images/youtube-dl-video.png" width=300px/> | |
-| Aug 19, 2019 | youtube-dl-audio.png | <img src="https://suzyi.github.io/images/youtube-dl-audio.png" width=300px/> | |
+| Aug 20, 2019 | youtube-dl-audio.png | <img src="https://suzyi.github.io/images/youtube-dl.png" width=300px/> | |
 | Jul 21, 2019 | twoSolitonKdV_snapshot.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_snapshot.png" width=300px/> | |
 | Jul 21, 2019 | twoSolitonKdV_err.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_err.png" height=300px/> | |
 | Jun 28, 2019 | global-attention.png  |  <img src="https://suzyi.github.io/images/global-attention.png" height=200px/> | [paper](https://arxiv.org/abs/1508.04025) |
