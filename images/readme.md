@@ -10,6 +10,10 @@
 ## Original Source of these Images
 | Date  | name | image | source |
 |---|---|---|---|
+| Aug 29, 2019 | firefox.png | <img src="https://suzyi.github.io/images/firefox.png" width=300px/> | |
+| Aug 29, 2019 | chrome.png | <img src="https://suzyi.github.io/images/chrome.png" width=300px/> | |
+| Aug 29, 2019 | sorry-google-scholar.png | <img src="https://suzyi.github.io/images/sorry-google-scholar.png" width=300px/> | |
+| Aug 29, 2019 | windows-ssr.png | <img src="https://suzyi.github.io/images/windows-ssr.png" width=300px/> | |
 | Aug 20, 2019 | youtube-dl-audio.png | <img src="https://suzyi.github.io/images/youtube-dl.png" width=300px/> | |
 | Jul 21, 2019 | twoSolitonKdV_snapshot.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_snapshot.png" width=300px/> | |
 | Jul 21, 2019 | twoSolitonKdV_err.png | <img src="https://suzyi.github.io/images/twoSolitonKdV_err.png" height=300px/> | |
