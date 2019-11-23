@@ -10,7 +10,7 @@
 ## Original Source of these Images
 | Date  | name | image | source |
 |---|---|---|---|
-| Nov 23, 2019 | note-taking.png | <img src="https://suzyi.github.io/images/note-taking.png" width=300px/> | |
+| Nov 23, 2019 | note-taking.png | <img src="https://suzyi.github.io/images/note-taking.png" width=300px/> | [tips](https://www.prepscholar.com/toefl/blog/toefl-note-taking-tips/) |
 | Oct 27, 2019 | s-or-z.png | <img src="https://suzyi.github.io/images/s-or-z.png" width=300px/> | |
 | Sep 17, 2019 | jcr_usage.png | <img src="https://suzyi.github.io/images/jcr_usage.png" width=300px/> | |
 | Aug 29, 2019 | firefox.png | <img src="https://suzyi.github.io/images/firefox.png" width=300px/> | |
